@@ -53,10 +53,15 @@ This is a complete course to understand linux in details (All flavours of linux 
 ![image](https://user-images.githubusercontent.com/80830406/204154432-17b5cba1-0b94-435c-b271-4ebfcfa5c564.png)
 
 
-## Module 1
+# Module 1
 
 Uses and key examples of Linux
 
 ![image](https://user-images.githubusercontent.com/80830406/204154780-fec05626-0e37-4608-8f9d-dcf324409228.png)
+
+
+Unix vs Linux 
+
+![image](https://user-images.githubusercontent.com/80830406/204155138-8b3b09bb-e346-4c88-b90e-3e5c761e10b5.png)
 
 
