@@ -60,8 +60,20 @@ Uses and key examples of Linux
 ![image](https://user-images.githubusercontent.com/80830406/204154780-fec05626-0e37-4608-8f9d-dcf324409228.png)
 
 
-Unix vs Linux 
+Unix vs Linux
 
 ![image](https://user-images.githubusercontent.com/80830406/204155138-8b3b09bb-e346-4c88-b90e-3e5c761e10b5.png)
+
+
+# MODULE 3
+
+Linux versus Windows commands - similar but different names
+
+![image](https://user-images.githubusercontent.com/80830406/204156659-8a1dbb5f-1f97-4156-9a37-432d2074fe03.png)
+
+
+
+
+
 
 
